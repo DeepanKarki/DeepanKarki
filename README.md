@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming and coding
 - 🌱 I’m currently learning Codining on python
 - 💞️ I’m from Nepal Satdobato,lalitpur 
-- Stusy at Nepal Don Bosco
+- Study at Nepal Don Bosco
  
 <!---
 DeepanKarki/DeepanKarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
