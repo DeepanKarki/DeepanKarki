@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeepanKarki
 - 👀 I’m interested in Gaming and coding
 - 🌱 I’m currently learning Codining on python
-- 💞️ I’m from Nepal Satdobato,lalitpur 
+- 💞️ I’m from Nepal Satdobato,lalitpur
 - Study at Nepal Don Bosco
  
 <!---
