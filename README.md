@@ -2,7 +2,6 @@
 - 👀 I’m interested in Gaming and coding
 - 🌱 I’m currently learning Codining on python
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me 
 
 <!---
 DeepanKarki/DeepanKarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
