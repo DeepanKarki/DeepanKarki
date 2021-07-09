@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepanKarki
+- 👋 Hi, I’m Deepan Karki
 - 👀 I’m interested in Gaming and coding
 - 🌱 I’m currently learning Codining on python
 - I’m from Nepal Satdobato,lalitpur
